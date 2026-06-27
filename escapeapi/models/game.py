@@ -11,6 +11,13 @@ class Game(models.Model):
     number_of_players = models.IntegerField()
     age_recommendation = models.IntegerField()
     location = models.ForeignKey(Location, on_delete=models.CASCADE, related_name="games")
+    image_path = models.ImageField(
+        upload_to="games",
+        height_field=None,
+        width_field=None,
+        max_length=None,
+        null=True,
+    )
 
     def __str__(self):
         return self.title

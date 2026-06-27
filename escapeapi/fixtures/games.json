@@ -1,0 +1,203 @@
+[
+  {
+    "pk": 1,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Prison Break",
+      "description": "You didn’t commit the crime, but unfortunately, you’re paying the time at Iron Gate, an iron-barred, 1950s-era prison. This joint is run by a nefarious warden who enjoys playing twisted chess games with the inmate pawns (aka YOU!). Today, he’s dangling a chance at freedom in your face. One hour to break free. You must decipher clues, navigate secret passages, and outwit the warden at his own game to finally get outta here!",
+      "difficulty": 9,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1,
+      "image_path": "games/prison_break_cell.avif"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Murder with A Side of Meatballs",
+      "description": "MAMMA MIA! There's been a murder at Rosso's Ristorante! With seven suspects and one poor Nonna who's unwittingly enjoyed her last meal, we've got a classic whodunnit on our hands. Comb the restaurant to identify the cause and the culprit in this messy murder mystery!",
+      "difficulty": 6,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1,
+      "image_path": "games/murder_meatballs_entry.avif"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Legend of the Yeti",
+      "description": "An expedition vanished high in the Himalayas while chasing a legendary jewel. All that remains is an abandoned outpost, half-buried in snow and whispered about in fearful tones by the locals. They say the mountain is dangerous. That something ancient protects the jewel. That the Yeti is real. It’s your turn to brave the cold, follow the trail, and uncover what really happened. But beware — in these mountains, the air is thin, time is short, and not everything that walks on two legs is human. Dare to uncover the Legend of the Yeti!",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1,
+      "image_path": "games/legend_yeti_inner_room.avif"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "The Heist",
+      "description": "A priceless Monet painting has vanished from the Barclay Museum of Historical Art. All eyes are on the museum's shady curator, Vincent Hahn, who’s suspected of smuggling it into his private collection. As a top operative for The Agency, it’s up to you to steal the painting back! Infiltrate the post-impressionist gallery, bypass security, outsmart the curator’s elaborate traps, and escape undetected before Hahn and his goons catch you in the act!",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1,
+      "image_path": "games/heist_main.avif"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "The Heist (Kids Mode)",
+      "description": "Kids Mode is specially designed to be fun and appropriate for ages 5-10. A personal Game Guide will join the group to lead them on their mission through the game and tailor the experience in real time. Kids Mode is not a reduced version of an existing game–it’s reengineered to be accessible and rewarding for all kids age 5-10. Kids Mode supports diversity in ability and experience with a hands-on approach to game guiding and a one-size-fits-one philosophy.",
+      "difficulty": "N/A",
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "5-10",
+      "location_id": 1,
+      "image_path": "games/heist_kids_main.avif"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Special Ops: Mysterious Market",
+      "description": "Under the cover of night, your globe-trotting spy team is dispatched to investigate suspicious activity at the Ansar Market. But what begins as a routine, intel-gathering mission quickly escalates when you uncover plans for an international nuclear attack. Now you’re on the hunt to expose the truth and uncover who’s really pulling the strings behind the scenes. With a worldwide catastrophe on the line, use every ounce of your spy training to unravel the plot, thwart the attack, and save the world — before it’s too late!",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1,
+      "image_path": "games/special_ops_mm_main.avif"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "The Depths",
+      "description": "You and your crew have been sent via submarine to investigate a deep-sea laboratory that’s recently gone dark. The lead researcher, Dr. Humphreys, seems to have vanished, leaving nothing but cryptic notes, eerie recordings, and swirling rumors about strange experiments in his wake. With limited oxygen and rising pressure, you must descend into the ocean’s shadowy depths, explore the abandoned lab, and uncover the truth behind Dr. Humphreys' mysterious experiments. Just be careful. You’ll need all your wits to survive whatever creatures are lurking down below...",
+      "difficulty": 7,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 8,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Nashville",
+      "description": "Are y’all ready to be the Next Big Thing in country music? Welcome to Music City, where legends are born and starry-eyed hopefuls can make their singing dreams come true. You’ve got one shot to make your mark on the charts. Nashville’s most powerful producer has hidden a signed record deal somewhere in his studio. Search every corner, flex your musical chops, and prove you've got what it takes to rise to the top. Fame, fortune, and your big break are on the line…if you can find that contract in time!",
+      "difficulty": 6,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "All",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 9,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Ruins: Forbidden Treasure",
+      "description": "You’ve just barely survived the crash of a rusty propeller plane. But luck might still be on your side! You’ve landed deep in the Wei-nu jungle, home of the mysterious Ehlari Ruins. Somewhere within these centuries-old stone walls, a long-fabled fortune lies hidden. Generations of adventurers have tried and failed to claim it. Can you brave the dangers, navigate hidden chambers, outwit the temple traps, and uncover the legendary treasure yourself?",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 10,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Playground",
+      "description": "Every year, the legendary Summer Kickoff marks the end of another school year and the beginning of a well-earned summer break. This year, your grade finally has a shot at dominating the kickball game and being crowned school-yard champs. The catch? You have to actually finish your assignments before you can hit the field! Race against the school bell to tackle every subject, make straight A’s, and win it all!",
+      "difficulty": 6,
+      "active_status": true,
+      "number_of_players": 12,
+      "age_recommendation": "All",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 11,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Cosmic Crisis",
+      "description": "You're aboard a spaceship hurtling toward a massive black hole that’s devouring everything in its path. Alarms blare. Warning lights flash. Our galaxy is on the brink of destruction! Your only shot to save the solar system? Transform your spaceship into a bomb. You’ll have to intentionally sabotage your own systems, override every safety protocol, and weaponize the onboard antimatter to blow that black hole to smithereens!",
+      "difficulty": 7,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 12,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Timeliner: Train through Time",
+      "description": "You’re just in time — barely! A catastrophic mistake in the past has started unraveling reality, sending shockwaves through history and rewriting the future in real time. The only way to fix things? Book a trip aboard Timeliner, the high-tech, time-traveling train. But don’t expect a relaxing ride. Visit multiple centuries and find clues in the past, present, and future. Crack codes and restore order before our timeline collapses completely. The past is broken. The future’s fading fast. And the clock is against you.",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 13,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Gold Rush",
+      "description": "Your kooky ol’ relative, Clyde Hamilton, struck it big during the 1800s California Gold Rush. He hoarded up every golden nugget he could find and stashed them somewhere in his rugged log cabin. But now Clyde’s kicked the bucket — and that gold is up for grabs! As his next of kin, you’ve got first dibs to claim the inheritance...if you can find it! You’ve only got 60 minutes to break into the cabin, search for clues among Clyde’s belongings, and uncover the gold before other money grubbers catch wind of the treasure!",
+      "difficulty": 7,
+      "active_status": true,
+      "number_of_players": 8,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 14,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Sabotage",
+      "description": "ime isn’t your only enemy in this wild, team vs. team showdown. You and your crew are dropped into what looks like a sleek, futuristic white box — but don’t be fooled. Hidden codes and puzzles are tucked behind every surface, and solving them is the only way to track down a lethal assassin. The twist? You’re not alone. Another team is hunting the same target, and you can attack each other! You’ll negotiate, bluff, and strategize over a phone line while trying to sabotage the opposing team and avoid their strikes. Think fast, earn points, and outsmart the enemy — only one team will walk away with the win.",
+      "difficulty": 8,
+      "active_status": true,
+      "number_of_players": 10,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  },
+  {
+    "pk": 15,
+    "model": "escapeapi.games",
+    "fields": {
+      "title": "Classified",
+      "description": "In this thrilling, high-stakes mission, it’s up to you to stop a major international threat by collecting details on an impending attack. You and your team of trained operatives must infiltrate a suspicious marketplace, gather scattered intel, decode intercepted communications, and track a shadowy network of criminals. Get inside the heads of these criminal masterminds to thwart their devious plan. The world is counting on you. Stay sharp, trust no one, and remember: one wrong move can blow the entire mission.",
+      "difficulty": 7,
+      "active_status": true,
+      "number_of_players": 7,
+      "age_recommendation": "12+",
+      "location_id": 1
+    }
+  }
+]

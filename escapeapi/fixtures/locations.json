@@ -1,0 +1,38 @@
+[
+    {
+        "pk": 1,
+        "model": "escapeapi.location",
+        "fields": {
+            "city": "Nashville, TN",
+            "area_location": "Berry Hill"
+        }
+    }, {
+        "pk": 2,
+        "model": "escapeapi.location",
+        "fields": {
+            "city": "Nashville, TN",
+            "area_location": "Opry Mills"
+        }
+    }, {
+        "pk": 3,
+        "model": "escapeapi.location",
+        "fields": {
+            "city": "Nashville, TN",
+            "area_location": "Downtown"
+        }
+    }, {
+        "pk": 4,
+        "model": "escapeapi.location",
+        "fields": {
+            "city": "Gatlinburg",
+            "area_location": "Gatlinburg"
+        }
+    }, {
+        "pk": 5,
+        "model": "escapeapi.location",
+        "fields": {
+            "city": "Pigeon Forge",
+            "area_location": "The Island"
+        }
+    }
+]
