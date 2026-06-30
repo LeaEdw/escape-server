@@ -1,5 +1,5 @@
 from .auth import login_user, register_user
-from .user_view import UserViewSet
+from .user_view import UserViewSet, profile
 from .location_view import LocationViewSet
 from .game_view import GameViewSet
 from .user_rating_view import UserRatingViewSet

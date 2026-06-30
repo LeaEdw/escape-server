@@ -5,6 +5,7 @@ from rest_framework.authtoken.views import obtain_auth_token
 from escapeapi.views import (
     login_user,
     register_user,
+    profile,
     UserViewSet,
     LocationViewSet,
     GameViewSet,
@@ -30,6 +31,7 @@ urlpatterns = [
     path('', include(router.urls)),
     path('admin/', admin.site.urls),
     path('login', login_user),
-    path('register', register_user)
+    path('register', register_user),
+    path('profile', profile)
 ]
 
