@@ -10,7 +10,15 @@
       "number_of_players": 8,
       "age_recommendation": "12+",
       "location_id": 1,
-      "image_path": "games/prison_break_cell.avif"
+      "images": [
+        {
+          "urls": [
+            "games/prison_break_cell.avif",
+            "games/prison_break_office.avif",
+            "games/prison_break_pipes.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -24,7 +32,15 @@
       "number_of_players": 8,
       "age_recommendation": "12+",
       "location_id": 1,
-      "image_path": "games/murder_meatballs_entry.avif"
+      "images": [
+        {
+          "urls": [
+            "games/murder_meatballs_entry.avif",
+            "games/murder_meatballs_room.avif",
+            "games/murder_meatballs_.avif.pizza"
+          ]
+        }
+      ]
     }
   },
   {
@@ -38,7 +54,14 @@
       "number_of_players": 8,
       "age_recommendation": "12+",
       "location_id": 1,
-      "image_path": "games/legend_yeti_inner_room.avif"
+      "images": [
+        {
+          "urls": [
+            "games/legend_yeti_emergency.avif",
+            "games/legend_yeti_inner_room.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -52,7 +75,19 @@
       "number_of_players": 8,
       "age_recommendation": "12+",
       "location_id": 1,
-      "image_path": "games/heist_main.avif"
+      "images": [
+        {
+          "urls": [
+            "games/heist_main.avif",
+            "games/heist_paintings.png",
+            "games/heist_puzzles.avif",
+            "games/heist_drawers.avif",
+            "games/heist_clues.avif",
+            "games/heist_art_elephant.avif",
+            "games/heist_ballet_and_bust.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -66,7 +101,17 @@
       "number_of_players": 8,
       "age_recommendation": "5-10",
       "location_id": 1,
-      "image_path": "games/heist_kids_main.avif"
+      "images": [
+        {
+          "urls": [
+            "games/heist_kids_action.avif",
+            "games/heist_kids_confetti.avif",
+            "games/heist_kids_main.avif",
+            "games/heist_kids_painting.avif",
+            "games/heist_kids_safe.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -80,7 +125,18 @@
       "number_of_players": 8,
       "age_recommendation": "12+",
       "location_id": 1,
-      "image_path": "games/special_ops_mm_main.avif"
+      "images": [
+        {
+          "urls": [
+            "games/special_ops_mm_fuse.avif",
+            "games/special_ops_mm_lion.avif",
+            "games/special_ops_mm_main.avif",
+            "games/special_ops_mm_map_target.avif",
+            "games/special_ops_mm_map.avif",
+            "games/special_ops_mm_market.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -93,7 +149,8 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [{ "urls": ["games/depth_main.avif"] }]
     }
   },
   {
@@ -106,7 +163,16 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "All",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/nashville_amp.avif",
+            "games/nashville_boots.avif",
+            "games/nashville_main.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -119,7 +185,19 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/ruins_forbidden_cargo.avif",
+            "games/ruins_forbidden_door.avif",
+            "games/ruins_forbidden_hall.avif",
+            "games/ruins_forbidden_inscriptions.avif",
+            "games/ruins_forbidden_map.avif",
+            "games/ruins_forbidden_statues.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -132,7 +210,18 @@
       "active_status": true,
       "number_of_players": 12,
       "age_recommendation": "All",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/playground_classroom.avif",
+            "games/playground_main.avif",
+            "games/playground_recess.avif",
+            "games/playground_ballpit.avif",
+            "games/playground_slide.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -145,7 +234,8 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [{ "urls": ["games/prison_break_cell.avif"] }]
     }
   },
   {
@@ -158,7 +248,18 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/timeliner_entry.png",
+            "games/timeliner_future.png",
+            "games/timeliner_joust.png",
+            "games/timeliner_main.png",
+            "games/timeliner_promo.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -171,7 +272,18 @@
       "active_status": true,
       "number_of_players": 8,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/gold_rush_blue.avif",
+            "games/gold_rush_cabin.avif",
+            "games/gold_rush_main.avif",
+            "games/gold_rush_entry.avif",
+            "games/gold_rush_mines.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -184,7 +296,16 @@
       "active_status": true,
       "number_of_players": 10,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [
+        {
+          "urls": [
+            "games/sabotage_imposter.avif",
+            "games/sabotage_main.avif",
+            "games/sabotage_puzzles.avif"
+          ]
+        }
+      ]
     }
   },
   {
@@ -197,7 +318,8 @@
       "active_status": true,
       "number_of_players": 7,
       "age_recommendation": "12+",
-      "location_id": 1
+      "location_id": 1,
+      "images": [{ "urls": ["games/classified_main.avif"] }]
     }
   }
 ]
