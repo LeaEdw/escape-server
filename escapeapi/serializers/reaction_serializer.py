@@ -1,7 +1,8 @@
 from rest_framework import serializers
 from escapeapi.models import Reaction
 
+
 class ReactionSerializer(serializers.ModelSerializer):
-    class Meta: 
+    class Meta:
         model = Reaction
-        fields = ['id', 'icon']
+        fields = ["id", "name", "icon"]
