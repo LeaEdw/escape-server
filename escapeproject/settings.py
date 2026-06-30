@@ -22,6 +22,7 @@ AUTH_USER_MODEL = 'escapeapi.User'
 # Application definition
 
 INSTALLED_APPS = [
+    'escapeapi',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -31,7 +32,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'corsheaders',
-    'escapeapi',
 ]
 
 REST_FRAMEWORK = {

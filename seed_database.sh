@@ -7,4 +7,7 @@ python3 manage.py makemigrations escapeapi
 python3 manage.py migrate escapeapi
 python3 manage.py loaddata users
 python3 manage.py loaddata tokens
+python3 manage.py loaddata locations
+python3 manage.py loaddata games
+python3 manage.py loaddata reactions
 

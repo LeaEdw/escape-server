@@ -1,6 +1,7 @@
 from .user import User
 from .location import Location
 from .game import Game
+from .game_image import GameImage
 from .user_rating import UserRating
 from .escape_time import EscapeTime
 from .comment import Comment

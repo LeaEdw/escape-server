@@ -1,0 +1,172 @@
+[
+  {
+    "model": "escapeapi.user",
+    "pk": 1,
+    "fields": {
+      "username": "leaedwards",
+      "email": "lea@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Lea",
+      "last_name": "Edwards",
+      "profile_image": "https://picsum.photos/seed/lea/200",
+      "is_admin": true,
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-01-01T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 2,
+    "fields": {
+      "username": "kdavault",
+      "email": "kayd@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Kay",
+      "last_name": "Davault",
+      "profile_image": "https://picsum.photos/seed/kay/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-02T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 3,
+    "fields": {
+      "username": "vynary",
+      "email": "vtran@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Vyvy",
+      "last_name": "Tran",
+      "profile_image": "https://picsum.photos/seed/vyvy/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-03T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 4,
+    "fields": {
+      "username": "akondo",
+      "email": "akon@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Alicea",
+      "last_name": "Kondo",
+      "profile_image": "https://picsum.photos/seed/alicea/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-04T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 5,
+    "fields": {
+      "username": "ykondo",
+      "email": "ykon@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Yoshi",
+      "last_name": "Kondo",
+      "profile_image": "https://picsum.photos/seed/yoshi/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-05T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 6,
+    "fields": {
+      "username": "saquino",
+      "email": "saquino@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Sam",
+      "last_name": "Aquino",
+      "profile_image": "https://picsum.photos/seed/sam/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-06T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 7,
+    "fields": {
+      "username": "sgarcia",
+      "email": "sofia@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Sofia",
+      "last_name": "Garcia",
+      "profile_image": "https://picsum.photos/seed/sofia/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-07T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 8,
+    "fields": {
+      "username": "dmiller",
+      "email": "derek@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Derek",
+      "last_name": "Miller",
+      "profile_image": "https://picsum.photos/seed/derek/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-08T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 9,
+    "fields": {
+      "username": "nwilson",
+      "email": "nina@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Nina",
+      "last_name": "Wilson",
+      "profile_image": "https://picsum.photos/seed/nina/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-09T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "escapeapi.user",
+    "pk": 10,
+    "fields": {
+      "username": "klee",
+      "email": "kevin@example.com",
+      "password": "pbkdf2_sha256$1000000$VEIy3s4zfAVTWKMZR1oVdv$l0Fd4BGpjSC6QrJTyBJcykjSntC/V5TrUGw1t5TVsSU=",
+      "first_name": "Kevin",
+      "last_name": "Lee",
+      "profile_image": "https://picsum.photos/seed/kevin/200",
+      "is_admin": false,
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-01-10T00:00:00Z",
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  }
+]

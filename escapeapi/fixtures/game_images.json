@@ -1,0 +1,506 @@
+[
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 1,
+    "fields": {
+      "game": 1,
+      "image_path": "games/prison_break_cell.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 2,
+    "fields": {
+      "game": 1,
+      "image_path": "games/prison_break_office.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 3,
+    "fields": {
+      "game": 1,
+      "image_path": "games/prison_break_pipes.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 4,
+    "fields": {
+      "game": 2,
+      "image_path": "games/murder_meatballs_entry.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 5,
+    "fields": {
+      "game": 2,
+      "image_path": "games/murder_meatballs_room.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 6,
+    "fields": {
+      "game": 2,
+      "image_path": "games/murder_meatballs_.avif.pizza",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 7,
+    "fields": {
+      "game": 3,
+      "image_path": "games/legend_yeti_emergency.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 8,
+    "fields": {
+      "game": 3,
+      "image_path": "games/legend_yeti_inner_room.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 9,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 10,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_paintings.png",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 11,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_puzzles.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 12,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_drawers.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 13,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_clues.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 14,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_art_elephant.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 15,
+    "fields": {
+      "game": 4,
+      "image_path": "games/heist_ballet_and_bust.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 16,
+    "fields": {
+      "game": 5,
+      "image_path": "games/heist_kids_action.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 17,
+    "fields": {
+      "game": 5,
+      "image_path": "games/heist_kids_confetti.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 18,
+    "fields": {
+      "game": 5,
+      "image_path": "games/heist_kids_main.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 19,
+    "fields": {
+      "game": 5,
+      "image_path": "games/heist_kids_painting.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 20,
+    "fields": {
+      "game": 5,
+      "image_path": "games/heist_kids_safe.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 21,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 22,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_market.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 23,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_fuse.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 24,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_lion.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 25,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_map_target.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 26,
+    "fields": {
+      "game": 6,
+      "image_path": "games/special_ops_mm_map.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 27,
+    "fields": {
+      "game": 7,
+      "image_path": "games/depth_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 28,
+    "fields": {
+      "game": 8,
+      "image_path": "games/nashville_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 29,
+    "fields": {
+      "game": 8,
+      "image_path": "games/nashville_amp.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 30,
+    "fields": {
+      "game": 8,
+      "image_path": "games/nashville_boots.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 31,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_map.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 32,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_cargo.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 33,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_door.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 34,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_hall.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 35,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_inscriptions.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 36,
+    "fields": {
+      "game": 9,
+      "image_path": "games/ruins_forbidden_statues.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 37,
+    "fields": {
+      "game": 10,
+      "image_path": "games/playground_classroom.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 38,
+    "fields": {
+      "game": 10,
+      "image_path": "games/playground_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 39,
+    "fields": {
+      "game": 10,
+      "image_path": "games/playground_recess.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 40,
+    "fields": {
+      "game": 10,
+      "image_path": "games/playground_ballpit.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 41,
+    "fields": {
+      "game": 10,
+      "image_path": "games/playground_slide.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 42,
+    "fields": {
+      "game": 11,
+      "image_path": "games/prison_break_cell.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 43,
+    "fields": {
+      "game": 12,
+      "image_path": "games/timeliner_main.png",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 44,
+    "fields": {
+      "game": 12,
+      "image_path": "games/timeliner_entry.png",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 45,
+    "fields": {
+      "game": 12,
+      "image_path": "games/timeliner_future.png",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 46,
+    "fields": {
+      "game": 12,
+      "image_path": "games/timeliner_joust.png",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 47,
+    "fields": {
+      "game": 12,
+      "image_path": "games/timeliner_promo.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 48,
+    "fields": {
+      "game": 13,
+      "image_path": "games/gold_rush_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 49,
+    "fields": {
+      "game": 13,
+      "image_path": "games/gold_rush_blue.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 50,
+    "fields": {
+      "game": 13,
+      "image_path": "games/gold_rush_cabin.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 51,
+    "fields": {
+      "game": 13,
+      "image_path": "games/gold_rush_entry.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 52,
+    "fields": {
+      "game": 13,
+      "image_path": "games/gold_rush_mines.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 53,
+    "fields": {
+      "game": 14,
+      "image_path": "games/sabotage_puzzles.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 54,
+    "fields": {
+      "game": 14,
+      "image_path": "games/sabotage_imposter.avif",
+      "is_primary": false
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 55,
+    "fields": {
+      "game": 14,
+      "image_path": "games/sabotage_main.avif",
+      "is_primary": true
+    }
+  },
+  {
+    "model": "escapeapi.gameimage",
+    "pk": 56,
+    "fields": {
+      "game": 15,
+      "image_path": "games/classified_main.avif",
+      "is_primary": true
+    }
+  }
+]

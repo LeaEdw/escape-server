@@ -1,38 +1,38 @@
 [
   {
     "pk": "1",
-    "models": "escapeapi.reactions",
-    "name": "1-puzzle",
-    "icon": "🧩"
+    "model": "escapeapi.reaction",
+    "fields": { "name": "1-puzzle", "icon": "🧩" }
   },
   {
     "pk": "2",
-    "models": "escapeapi.reactions",
-    "name": "love",
-    "icon": "❤️"
+    "model": "escapeapi.reaction",
+    "fields": { "name": "love", "icon": "❤️" }
   },
   {
     "pk": "3",
-    "models": "escapeapi.reactions",
-    "name": "neutral",
-    "icon": "😐"
+    "model": "escapeapi.reaction",
+    "fields": { "name": "neutral", "icon": "😐" }
   },
   {
     "pk": "4",
-    "models": "escapeapi.reactions",
-    "name": "sad",
-    "icon": "😔"
-  },
-  {
-    "pk": "4",
-    "models": "escapeapi.reactions",
-    "name": "angry",
-    "icon": "😵‍💫"
+    "model": "escapeapi.reaction",
+    "fields": { "name": "sad", "icon": "😔" }
   },
   {
     "pk": "5",
-    "models": "escapeapi.reactions",
-    "name": "exasperated",
-    "icon": "😭"
+    "model": "escapeapi.reaction",
+    "fields": {
+      "name": "angry",
+      "icon": "😵‍💫"
+    }
+  },
+  {
+    "pk": "6",
+    "model": "escapeapi.reaction",
+    "fields": {
+      "name": "exasperated",
+      "icon": "😭"
+    }
   }
 ]
