@@ -68,7 +68,7 @@
     "fields": {
       "game": 3,
       "image_path": "games/legend_yeti_inner_room.avif",
-      "is_primary": false
+      "is_primary": true
     }
   },
   {
@@ -500,6 +500,14 @@
     "fields": {
       "game": 15,
       "image_path": "games/classified_main.avif",
+      "is_primary": true
+    }
+  }, {
+    "model": "escapeapi.gameimage",
+    "pk": 57,
+    "fields": {
+      "game": 11,
+      "image_path": "games/cosmic_crisis_entry.avif",
       "is_primary": true
     }
   }

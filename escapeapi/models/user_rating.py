@@ -12,8 +12,8 @@ class UserRating(models.Model):
     difficulty = models.IntegerField()
 
     class Meta:
-        verbose_name = ("userrating")
-        verbose_name_plural = ("userratings")
+        verbose_name = "userrating"
+        verbose_name_plural = "userratings"
 
-        def __str__(self):
-            return self.rating
+    def __str__(self):
+        return f"{self.user} - {self.game}"

@@ -173,7 +173,7 @@
     "model": "escapeapi.game",
     "fields": {
       "title": "Sabotage",
-      "description": "ime isn’t your only enemy in this wild, team vs. team showdown. You and your crew are dropped into what looks like a sleek, futuristic white box — but don’t be fooled. Hidden codes and puzzles are tucked behind every surface, and solving them is the only way to track down a lethal assassin. The twist? You’re not alone. Another team is hunting the same target, and you can attack each other! You’ll negotiate, bluff, and strategize over a phone line while trying to sabotage the opposing team and avoid their strikes. Think fast, earn points, and outsmart the enemy — only one team will walk away with the win.",
+      "description": "Time isn’t your only enemy in this wild, team vs. team showdown. You and your crew are dropped into what looks like a sleek, futuristic white box — but don’t be fooled. Hidden codes and puzzles are tucked behind every surface, and solving them is the only way to track down a lethal assassin. The twist? You’re not alone. Another team is hunting the same target, and you can attack each other! You’ll negotiate, bluff, and strategize over a phone line while trying to sabotage the opposing team and avoid their strikes. Think fast, earn points, and outsmart the enemy — only one team will walk away with the win.",
       "difficulty": "8",
       "active_status": true,
       "number_of_players": 10,

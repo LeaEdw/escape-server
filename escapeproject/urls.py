@@ -15,6 +15,8 @@ from escapeapi.views import (
     ReactionViewSet,
     UserReactionViewSet,
 )
+from django.conf import settings
+from django.conf.urls.static import static
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'users', UserViewSet, basename='user')
@@ -33,5 +35,5 @@ urlpatterns = [
     path('login', login_user),
     path('register', register_user),
     path('profile', profile)
-]
+] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
